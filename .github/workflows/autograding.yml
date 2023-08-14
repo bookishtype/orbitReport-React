@@ -3,10 +3,7 @@
 
 name: autograding
 
-on: 
-  workflow_dispatch;
-    branches:
-      - main
+on: [push]
       
 jobs:
   build:
