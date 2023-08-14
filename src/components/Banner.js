@@ -1,3 +1,4 @@
+//returns header tag and instructions for users. Export and import into app.js
 function Banner() {
     return (
         <div>
