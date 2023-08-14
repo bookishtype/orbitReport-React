@@ -1,3 +1,6 @@
+// Four clickable buttons
+// Three of them will use the props you passed from the App() function
+// One will display all of the satellites
 import satData from "./satData";
 
 const Buttons = (props) => {
